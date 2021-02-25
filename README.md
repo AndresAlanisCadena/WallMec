@@ -1,2 +1,2 @@
 # WallMec
-Wallmec - Página de fondos de pantalla
+Wallmec - App de fondos de pantalla
